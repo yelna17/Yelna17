@@ -6,8 +6,8 @@
   class WhoAmI:
     user = 'Yelna17 Bawwup'
 	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    currently_learning = "PHP"
+    fun_fact = "i hate egoists"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -16,7 +16,7 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Chhattisgarh_Turkey()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
