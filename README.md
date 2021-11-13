@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile</h1>
 <h3 align="center">Hello, I'm Yelna, I'm 17 years old and I've been using HTML, PHP, JavaScript, #C for a long time. I do research and projects in many languages. And I want to change people's thinking about software by sharing the projects I've done on this github profile I hope you will like it.</h3>
 
-<p dir="auto"><a href="https://discord.com/users/274961101601636352" rel="nofollow"><img src="https://camo.githubusercontent.com/28ae67c172bf79540ff5e12dbeabbf155e83ad4aa75787eb196cbc9e0e4bba8e/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f333839303834373337313737373830323334" alt="Discord Presence" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/389084737177780234" style="max-width: 100%;"></a></p>
+<img src="https://discordapp.com/api/guilds/874569414278803487/widget.png?style=shield" alt="Discord Shield"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yelna17&label=Profile%20views&color=0e75b6&style=flat" alt="yelna17" /> </p>
 
