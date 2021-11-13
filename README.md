@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Yelna17</h1>
+<h1 align="center">Welcome to my profile</h1>
 <h3 align="center">Hello, I'm Yelna, I'm 17 years old and I've been using HTML, PHP, JavaScript, #C for a long time. I do research and projects in many languages. And I want to change people's thinking about software by sharing the projects I've done on this github profile I hope you will like it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yelna17&label=Profile%20views&color=0e75b6&style=flat" alt="yelna17" /> </p>
